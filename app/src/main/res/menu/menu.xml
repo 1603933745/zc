@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="新闻" android:icon="@drawable/ic_action_home" android:id="@+id/blankFragment"/>  />
+    <item android:title="新闻" android:icon="@drawable/ic_action_home" android:id="@+id/blankFragment2"/>  />
+    <item android:title="@null" android:icon="@null" android:id="@null"/>  />
+    <item android:title="新闻" android:icon="@drawable/ic_action_home" android:id="@+id/blankFragment3"/>  />
+    <item android:title="新闻" android:icon="@drawable/ic_action_home" android:id="@+id/blankFragment4"/>  />
+</menu>
